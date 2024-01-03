@@ -57,4 +57,5 @@ Ensure your system meets the following requirements before using the automation 
 Run the following command to initiate a shutdown:
 
 ```bash
-python shutdown.py
+code for executable file.py
+```
