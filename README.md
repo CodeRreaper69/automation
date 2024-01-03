@@ -36,16 +36,22 @@ Ensure your system meets the following requirements before using the automation 
 2. Navigate to the project directory:
 
     ```bash
-    cd automated-computer-control
+    cd automation
     ```
 
-3. Install any necessary dependencies:
+3. Install the necessary dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
-
+4. Run the streamlit app
+```bash
+  streamlit run "shutdownexe_streamlit app code.py"
+   ```
 ## Usage
+1. Use to operate shutdowns on server side
+2. Use to autoate shut down process with the timer module
+3. Use to mimic the shutdown process on the background
 
 ### Shutdown Script
 
