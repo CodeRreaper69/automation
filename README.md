@@ -8,8 +8,7 @@ This repository contains scripts and tools to automate the process of shutting d
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
