@@ -1,6 +1,6 @@
 # Automated Computer Control
 
-This repository contains scripts and tools to automate the process of shutting down or restarting a computer. These automations can be useful for various scenarios such as scheduled maintenance, energy conservation, or remote management.
+This repository contains scripts and tools to automate the process of shutting down or restarting a computer, or sending automatic whatsapp messages. These automations can be useful for various scenarios such as scheduled maintenance, energy conservation, or remote management.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ This repository contains scripts and tools to automate the process of shutting d
 1. **Shutdown Script**: Execute a command to gracefully shut down the computer.
 2. **Restart Script**: Perform a controlled restart of the system.
 3. **Scheduled Tasks**: Set up scheduled tasks to automate shutdowns or restarts at specific times.
-
+4. **Whatsapp Automator**: Will send automatic whatsapp messages to the sender using his/her phone number and countrycode and message body
 ## Requirements
 
 Ensure your system meets the following requirements before using the automation scripts:
@@ -47,6 +47,9 @@ Ensure your system meets the following requirements before using the automation 
 ```bash
   streamlit run "shutdownexe_streamlit app code.py"
    ```
+```bash
+ bash auto.sh
+```
 ## Usage
 1. Use to operate shutdowns on server side
 2. Use to autoate shut down process with the timer module
