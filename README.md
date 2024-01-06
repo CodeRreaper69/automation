@@ -54,7 +54,9 @@ Install termux from fdroid and run the following commands on the terminal
 ```
 ```bash
  apt update && apt upgrade -y
- apt install xdg-utils figlet
+ apt install git xdg-utils figlet
+ git clone https://github.com/CodeRreaper69 /automation.git
+ cd automation
  bash auto_whatsapp_message_sender.sh
 ```
 ```bash
@@ -62,10 +64,12 @@ For linux/debain based system like kali, ubuntu
 ```
 ```bash
  sudo apt update && apt upgrade -y
- sudo apt install xdg-utils figlet
+ sudo apt install git xdg-utils figlet
+ git clone https://github.com/CodeRreaper69 /automation.git
+ cd automation
  bash auto_whatsapp_message_sender.sh
 ```
-6. Run the auto_shutdown.exe in windows by download link.exe
+6. Run the auto_shutdown.exe in windows by downloading shutdown_executable file.exe from and then clicking on it on windows
 ## Usage
 1. Use to operate shutdowns on server side
 2. Use to autoate shut down process with the timer module
