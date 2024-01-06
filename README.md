@@ -69,7 +69,7 @@ For linux/debain based system like kali, ubuntu
  cd automation
  bash auto_whatsapp_message_sender.sh
 ```
-6. Run the auto_shutdown.exe in windows by downloading shutdown_executable file.exe from and then clicking on it on windows
+6. Run the automatic shutdown application in windows by downloading **shutdown_executable file.exe** from and then clicking on it
 ## Usage
 1. Use to operate shutdowns on server side
 2. Use to autoate shut down process with the timer module
