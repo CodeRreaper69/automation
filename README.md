@@ -1,4 +1,4 @@
-# Automated Computer Control
+# Automated Computer/Android Control
 
 This repository contains scripts and tools to automate the process of shutting down or restarting a computer, or sending automatic whatsapp messages. These automations can be useful for various scenarios such as scheduled maintenance, energy conservation, or remote management.
 
