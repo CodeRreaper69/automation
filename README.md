@@ -48,14 +48,18 @@ Ensure your system meets the following requirements before using the automation 
   streamlit run "shutdownexe_streamlit app code.py"
    ```
 5.Run the automatic whatsapp control system
--For android
+```
+For android
 Install termux from fdroid and run the following commands on the terminal
+```
 ```bash
  apt update && apt upgrade -y
  apt install xdg-utils figlet
  bash auto_whatsapp_message_sender.sh
 ```
+```bash
 -For linux/debain based system
+```
 ```bash
  sudo apt update && apt upgrade -y
  sudo apt install xdg-utils figlet
