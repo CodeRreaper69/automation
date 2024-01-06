@@ -48,7 +48,7 @@ Ensure your system meets the following requirements before using the automation 
   streamlit run "shutdownexe_streamlit app code.py"
    ```
 ```bash
- bash auto.sh
+ bash auto_whatsapp_message_sender.sh
 ```
 ## Usage
 1. Use to operate shutdowns on server side
